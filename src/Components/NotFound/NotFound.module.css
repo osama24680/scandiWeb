@@ -1,0 +1,9 @@
+.NotImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.NotImgimg{
+    width: 60%;
+}

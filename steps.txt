@@ -1,0 +1,41 @@
+1-install all dependencies ===>>>(
+
+bootstrap => npm install bootstrap 
+fontawesome => npm install @fortawesome/fontawesome-free 
+react-router-app => npm install react-router-dom 
+axios => npm install axios
+joi => npm install joi 
+decode => npm i jwt-decode
+icons => npm install react-icons
+github => npm install gh-pages
+
+
+)
+
+2-create all components from design
+
+3- run and check
+
+4-apply all shared styles => index.css
+
+5-routing
+
+6-work on components itself
+
+
+
+"homepage": (online link),
+scripts => predeploy:npm run build,
+scripts => deploy:gh-pages -d build,
+
+commands =>
+git remote add origin https://github.com/osama24680/puplic_portofolio4.git
+npm run deploy
+
+
+
+
+
+
+
+
